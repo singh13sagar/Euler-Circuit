@@ -16,4 +16,4 @@ C| 2 | 1 | 1
 Which means there are only 2 edges between A and C whereas 0 from A to B, etc. 
 
 4. If a Euler circuit exists, program will output it.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/singh13sagar/Euler-Circuit/blob/master/Screen%20Shot%202018-12-13%20at%203.10.50%20PM.png)
