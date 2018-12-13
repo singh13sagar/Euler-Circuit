@@ -6,7 +6,7 @@ This project can find Euler circuit from given vertices and number of Edges betw
 3. It runs several test cases and ask for custom input.
 
 Example
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/singh13sagar/Euler-Circuit/blob/master/Screen%20Shot%202018-12-13%20at%203.12.39%20PM.png)
 
 In this case 3 is the given value, let A, B, C be those vertices. The following input related to rows in the adjacency matrix of edges between those points. Below is the example.
  | A | B | C
